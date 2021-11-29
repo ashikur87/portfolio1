@@ -1,0 +1,33 @@
+
+
+.about{
+    background: whitesmoke;
+}
+img.about__img{
+    border-radius: 10px;
+    width: 350px;
+}
+.about_btn{
+    padding: 15px;
+}
+a.bottom__to__top.active{
+    display: flex;
+}
+.color{
+    color: black;
+}
+/* RESPONSIVE */
+@media only screen and (max-width: 1024px){
+    .color{
+        font-size: 15px!important;
+    }
+}
+@media only screen and (max-width: 425px){
+button.about.btn.pointer {
+    text-transform: capitalize;
+    width: 165px;
+    height: 50px;
+    font-size: 13px;
+    transition: .4s ease;
+}
+}
