@@ -34,7 +34,7 @@ function About() {
               </p><br/>
               <div className="about__button d__flex align__items__center">
                 <a href="#">
-                  <button className="about_btn btn pointer"><a href="https://drive.google.com/file/d/1rU46a9sKxjuyYUISwr10cEhbkcelAWKq/view?usp=sharing">Resume</a> </button>
+                  <button className="about_btn btn pointer"><a href="https://docs.google.com/document/d/14dhgLyEOehPOboN33rqmtTbHUr9F4R2RqNftzYVbkkg/edit?usp=sharing">Resume</a> </button>
 
 
                 </a>
